@@ -7,7 +7,7 @@ paper-height = 11\in
 }
 \markup{\lower #10 \null}
 \header {
-  title = "D Major Double Stops"
+  title = "D Major"
   composer = ""
   subtitle = "scales, arpeggios, double stops"
 }
