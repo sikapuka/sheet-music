@@ -1,7 +1,11 @@
-
+\version "2.22.1"
 \paper {
-#(set-paper-size "letter")
+left-margin = 2\cm
+righy-margin = 2\cm
+paper-width = 8.5\in
+paper-height = 11\in
 }
+\markup{\lower #10 \null}
 \header {
   title = "D Major Double Stops"
   composer = ""
