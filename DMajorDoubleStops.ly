@@ -1,6 +1,7 @@
 
-#(set-default-paper-size "letter")
-
+\paper {
+#(set-paper-size "letter")
+}
 \header {
   title = "D Major Double Stops"
   composer = ""
