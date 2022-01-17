@@ -1,5 +1,6 @@
 
-#(set-global-staff-size "letter")
+#(set-default-paper-size "letter")
+
 \header {
   title = "D Major Double Stops"
   composer = ""
@@ -13,10 +14,13 @@
   <cis -2 e-0> <d-3 fis-1> <e-4 g-2> <fis-3 a-1> 
   <g-4 b-2> <a-3 cis-1> <b-4 d-2> <cis-3 e-1> 
   <d-4 fis-2> <cis-3 e-1> <b-4 d-2> <a-3 cis-1>
- <g-4 b-2> <fis-3 a-1> <e-0 g-4> <d-3 fis-1>
+  <g-4 b-2> <fis-3 a-1> <e-0 g-4> <d-3 fis-1>
+  <cis-2 e-0> <b-3 d-1> <a-0 cis-4> <gis-3 b-1>
+  <fis-2 a-0> <e-3 g-1> <d-0 fis-4> <cis-3 e-1> 
+  <d-4 d-0>1 \bar "|."
 
   }
 
-  \layout {}
+  \layout {indent =0} 
   \midi {}
 }
