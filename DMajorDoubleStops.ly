@@ -26,6 +26,7 @@ paper-height = 11\in
 
   <a-1 fis'-2>8^\markup{\bold "sixths"} <b-2 gis'-3> <cis-3 a'-4> <d-0 b'-1>
   <e-1 cis'-2> <fis-2 d'-3> <gis-3 e'-4> <a-0 fis'-1>
+  <b-1 g'-2> <cis-2 a'-3> <d-1 b'-2> <e-2 cis'-3>
 
 
 
