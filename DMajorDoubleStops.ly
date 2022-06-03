@@ -22,7 +22,7 @@ paper-height = 11\in
   <g-4 b-2> <fis-3 a-1> <e-0 g-4> <d-3 fis-1>
   <cis-2 e-0> <b-3 d-1> <a-0 cis-4> <g-3 b-1>
   <fis-2 a-0> <e-3 g-1> <d-0 fis-4> <cis-3 e-1> 
-  <d-4 d-0>1 \bar "|." \break
+  <d-4 d-0>1 \bar "||" \break
 
   <a-1 fis'-2>8^\markup{\bold "sixths"} <b-2 g'-3> <cis-3 a'-4> <d-0 b'-1>
   <e-1 cis'-2> <fis-2 d'-3> <g-3 e'-4> <a-0 fis'-1>
@@ -31,7 +31,7 @@ paper-height = 11\in
   <a-3 fis'-4>8 <g-2 e'-3> <fis-1 d'-2> <e-2 cis'-3>
   <d-1 b'-2> <cis-2 a'-3> <b-1 g'-2> <a-0 fis'-1>
   <g-3 e'-4> <fis-2 d'-3> <e-1 cis'-2> <d-0 b'-1>
-  <cis-3 a'-4> <b-2 g'-3> <a-1 fis'-2>4 
+  <cis-3 a'-4> <b-2 g'-3> <a-1 fis'-2>4 \bar "||" \break 
 
 
 
