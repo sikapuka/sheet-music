@@ -33,6 +33,8 @@ paper-height = 11\in
   <g-3 e'-4> <fis-2 d'-3> <e-1 cis'-2> <d-0 b'-1>
   <cis-3 a'-4> <b-2 g'-3> <a-1 fis'-2>4 \bar "||" \break 
 
+  <d-0 d'-3>8 <e-1 e'-4> <fis-1 fis'-4> <g-1 g'-4>
+  <a-0 a'-3> <b-1 b'-4> <cis-1 cis'-4> <d-0 d'-3>
 
 
 
